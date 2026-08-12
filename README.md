@@ -24,7 +24,7 @@ Sharpening my backend fundamentals and looking to work on real production codeba
 
 **📫 Reach me**
 
-[LinkedIn](https://linkedin.com/in/your-linkedin) · your.email@example.com
+[LinkedIn](linkedin.com/in/sagarkalsariya) · kalsariyasagar05@gmail.com
 
 ---
 <sub>Gujarati, Hindi, and English (working proficiency)</sub>
