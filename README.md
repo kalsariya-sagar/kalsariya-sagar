@@ -22,9 +22,9 @@ Each one is deployed and actually usable — not just code sitting in a repo.
 
 Sharpening my backend fundamentals and looking to work on real production codebases with a team.
 
-**📫 Reach me**
+## 📫 Reach me
 
-[LinkedIn](linkedin.com/in/sagarkalsariya) · kalsariyasagar05@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sagarkalsariya/) · kalsariyasagar05@gmail.com
 
 ---
 <sub>Gujarati, Hindi, and English (working proficiency)</sub>
