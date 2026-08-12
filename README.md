@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi, I'm Sagar Kalsariya 👋
 
-<!--
-**kalsariya-sagar/kalsariya-sagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer from Surat, Gujarat. I build complete web applications solo — frontend, backend, database, and deployment — and I like shipping things that actually work end to end rather than just half-finished demos.
 
-Here are some ideas to get you started:
+Fresh BCA graduate, self-taught through building. Currently looking for full-stack developer / software developer roles and internships.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🔭 What I work with**
+
+`JavaScript` `React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Bootstrap` `SQL` `Git & GitHub`
+
+**🚀 Things I've built**
+
+- **[TradeNest](https://github.com/kalsariya-sagar/trade-nest)** — a real-time virtual stock trading platform with a live price simulator, portfolio P&L tracking, and JWT auth. [Live demo →](https://trade-nest-beryl.vercel.app/)
+- **[StayScape](https://github.com/kalsariya-sagar/StayScape)** — an Airbnb-style vacation rental platform with role-based access (guest/user/host), Mapbox integration, and image uploads via Cloudinary. [Live demo →](https://stay-scape-ten.vercel.app/)
+- **[Aethermind AI](https://github.com/kalsariya-sagar/aethermind)** — a real-time AI chat app with SSE streaming and a multi-provider fallback between Groq and Google Gemini. [Live demo →](https://aethermind-one-brown.vercel.app/)
+
+Each one is deployed and actually usable — not just code sitting in a repo.
+
+**🌱 Right now**
+
+Sharpening my backend fundamentals and looking to work on real production codebases with a team.
+
+**📫 Reach me**
+
+[LinkedIn](https://linkedin.com/in/your-linkedin) · your.email@example.com
+
+---
+<sub>Gujarati, Hindi, and English (working proficiency)</sub>
